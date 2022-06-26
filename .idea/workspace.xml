@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f88fe9-beaa-44d0-a668-682dc70d273c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CheckSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ProductArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/CheckSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/CheckSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ProductArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ProductArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CheckSum">
+  <component name="RunManager" selected="Application.ProductArray">
     <configuration name="CheckMergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CheckMergeArray" />
       <module name="untitled104" />
@@ -137,14 +137,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ProductArray" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.CheckRemoveEven" />
       <item itemvalue="Application.CheckMergeArray" />
       <item itemvalue="Application.CheckSum" />
+      <item itemvalue="Application.ProductArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductArray" />
         <item itemvalue="Application.CheckSum" />
         <item itemvalue="Application.CheckMergeArray" />
         <item itemvalue="Application.CheckRemoveEven" />
