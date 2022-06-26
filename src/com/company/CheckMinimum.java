@@ -2,8 +2,13 @@ package com.company;
 
 public class CheckMinimum {
     public static int findMinimum(int[] arr){
-        int minimun = arr[0];
-        return minimun;
+        int minimum = arr[0];
+        for (int i = 1; i < arr.length; i++) {
+            if (arr[i] < minimum) {
+                minimum = arr[i];
+            }
+        }
+        return minimum;
     }
     public static void main(String args[]) {
 
