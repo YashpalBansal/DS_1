@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f88fe9-beaa-44d0-a668-682dc70d273c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CheckRotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CheckReArrange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CheckSecondMax">
+  <component name="RunManager" selected="Application.CheckReArrange">
     <configuration name="CheckFirstUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CheckFirstUnique" />
       <module name="untitled104" />
@@ -113,6 +113,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CheckReArrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CheckReArrange" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckRotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CheckRotateArray" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckSecondMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CheckSecondMax" />
       <module name="untitled104" />
@@ -126,46 +152,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CheckSum" />
-      <module name="untitled104" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ProductArray" />
-      <module name="untitled104" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.CheckSum" />
-      <item itemvalue="Application.ProductArray" />
       <item itemvalue="Application.CheckMinimum" />
       <item itemvalue="Application.CheckFirstUnique" />
       <item itemvalue="Application.CheckSecondMax" />
+      <item itemvalue="Application.CheckRotateArray" />
+      <item itemvalue="Application.CheckReArrange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckReArrange" />
+        <item itemvalue="Application.CheckRotateArray" />
         <item itemvalue="Application.CheckSecondMax" />
         <item itemvalue="Application.CheckFirstUnique" />
         <item itemvalue="Application.CheckMinimum" />
-        <item itemvalue="Application.ProductArray" />
-        <item itemvalue="Application.CheckSum" />
       </list>
     </recent_temporary>
   </component>
