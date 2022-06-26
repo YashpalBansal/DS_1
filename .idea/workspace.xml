@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f88fe9-beaa-44d0-a668-682dc70d273c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CheckSecondMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CheckRotateArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
