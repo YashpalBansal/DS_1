@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f88fe9-beaa-44d0-a668-682dc70d273c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/CheckFirstUnique.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CheckMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CheckMinimum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CheckMinimum">
+  <component name="RunManager" selected="Application.CheckFirstUnique">
+    <configuration name="CheckFirstUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CheckFirstUnique" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckMergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CheckMergeArray" />
       <module name="untitled104" />
@@ -102,19 +115,6 @@
     </configuration>
     <configuration name="CheckMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CheckMinimum" />
-      <module name="untitled104" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckRemoveEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CheckRemoveEven" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -153,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CheckRemoveEven" />
       <item itemvalue="Application.CheckMergeArray" />
       <item itemvalue="Application.CheckSum" />
       <item itemvalue="Application.ProductArray" />
       <item itemvalue="Application.CheckMinimum" />
+      <item itemvalue="Application.CheckFirstUnique" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckFirstUnique" />
         <item itemvalue="Application.CheckMinimum" />
         <item itemvalue="Application.ProductArray" />
         <item itemvalue="Application.CheckSum" />
         <item itemvalue="Application.CheckMergeArray" />
-        <item itemvalue="Application.CheckRemoveEven" />
       </list>
     </recent_temporary>
   </component>
