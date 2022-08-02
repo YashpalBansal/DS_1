@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69f88fe9-beaa-44d0-a668-682dc70d273c" name="Changes" comment="" />
+    <list default="true" id="69f88fe9-beaa-44d0-a668-682dc70d273c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/ArrayPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ArraySwapAlternate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/arrayPattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,9 +93,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CheckReArrange">
-    <configuration name="CheckFirstUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CheckFirstUnique" />
+  <component name="RunManager" selected="Application.ArraySwapAlternate">
+    <configuration name="ArrayPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ArrayPair" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CheckMinimum" />
+    <configuration name="ArraySwapAlternate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ArraySwapAlternate" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckReArrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CheckReArrange" />
+    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.PalindromeString" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckRotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CheckRotateArray" />
+    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.StringReverse" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckSecondMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CheckSecondMax" />
+    <configuration name="arrayPattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.arrayPattern1" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -150,19 +160,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CheckMinimum" />
-      <item itemvalue="Application.CheckFirstUnique" />
-      <item itemvalue="Application.CheckSecondMax" />
-      <item itemvalue="Application.CheckRotateArray" />
-      <item itemvalue="Application.CheckReArrange" />
+      <item itemvalue="Application.StringReverse" />
+      <item itemvalue="Application.PalindromeString" />
+      <item itemvalue="Application.arrayPattern1" />
+      <item itemvalue="Application.ArrayPair" />
+      <item itemvalue="Application.ArraySwapAlternate" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckReArrange" />
-        <item itemvalue="Application.CheckRotateArray" />
-        <item itemvalue="Application.CheckSecondMax" />
-        <item itemvalue="Application.CheckFirstUnique" />
-        <item itemvalue="Application.CheckMinimum" />
+        <item itemvalue="Application.ArraySwapAlternate" />
+        <item itemvalue="Application.ArrayPair" />
+        <item itemvalue="Application.arrayPattern1" />
+        <item itemvalue="Application.PalindromeString" />
+        <item itemvalue="Application.StringReverse" />
       </list>
     </recent_temporary>
   </component>
