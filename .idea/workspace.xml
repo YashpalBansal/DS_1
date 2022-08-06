@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f88fe9-beaa-44d0-a668-682dc70d273c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/ArrayPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ArraySwapAlternate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StringPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/arrayPattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Array2BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Array2MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SortBubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SortInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SortSelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StringSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StringWordReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,9 +100,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ArraySwapAlternate">
-    <configuration name="ArrayPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ArrayPair" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SortInsertionSort">
+    <configuration name="Array2BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Array2BinarySearch" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySwapAlternate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ArraySwapAlternate" />
+    <configuration name="SortBubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SortBubbleSort" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.PalindromeString" />
+    <configuration name="SortInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SortInsertionSort" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.StringReverse" />
+    <configuration name="SortSelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SortSelectionSort" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrayPattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.arrayPattern1" />
+    <configuration name="StringWordReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.StringWordReverse" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -160,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringReverse" />
-      <item itemvalue="Application.PalindromeString" />
-      <item itemvalue="Application.arrayPattern1" />
-      <item itemvalue="Application.ArrayPair" />
-      <item itemvalue="Application.ArraySwapAlternate" />
+      <item itemvalue="Application.StringWordReverse" />
+      <item itemvalue="Application.Array2BinarySearch" />
+      <item itemvalue="Application.SortSelectionSort" />
+      <item itemvalue="Application.SortBubbleSort" />
+      <item itemvalue="Application.SortInsertionSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraySwapAlternate" />
-        <item itemvalue="Application.ArrayPair" />
-        <item itemvalue="Application.arrayPattern1" />
-        <item itemvalue="Application.PalindromeString" />
-        <item itemvalue="Application.StringReverse" />
+        <item itemvalue="Application.SortInsertionSort" />
+        <item itemvalue="Application.SortBubbleSort" />
+        <item itemvalue="Application.SortSelectionSort" />
+        <item itemvalue="Application.Array2BinarySearch" />
+        <item itemvalue="Application.StringWordReverse" />
       </list>
     </recent_temporary>
   </component>
